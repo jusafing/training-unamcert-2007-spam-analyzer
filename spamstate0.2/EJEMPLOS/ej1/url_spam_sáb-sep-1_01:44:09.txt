@@ -1,0 +1,49 @@
+
+
+**************************************************************
+***    R E P O R T E     D E    E S T A D I S T I C A S    ***
+**************************************************************
+
+--------------------------------------------------------------
+>  Fecha de creacion:	sáb-sep-1
+>  Hora de creacion :	01:44:09
+
+Intervalo de reporte: INICIO  (mm/dd): 1-1
+                      TERMINO (mm/dd): 12-31
+--------------------------------------------------------------
+
+
+#######################
+###    TOP 10 ASN   ###
+#######################
+	1 ) [ 278 ]	:	50
+	2 ) [ 14780 ]	:	21
+	3 ) [ 15169 ]	:	13
+	4 ) [ 21844 ]	:	10
+	5 ) [ 30285 ]	:	10
+	6 ) [ 3484 ]	:	10
+	7 ) [ 15107 ]	:	9
+	8 ) [ 33070 ]	:	8
+	9 ) [ 3596 ]	:	5
+	10 ) [ 0 ]	:	4
+
+###############################
+###    TOP 50 REMITENTES    ###
+###############################
+	1 ) [ usuario debian <usuario@debianetch.debianetch> ]	:	8
+	2 ) [ root <root@debianetch.debianetch> ]	:	4
+	3 ) [ God <god@heaven.af.mil> ]	:	2
+
+#############################
+###    TOP 50 SUBJECTS    ###
+#############################
+	1 ) [ NO SUBJECT ]	:	2
+	2 ) [ SUBJECT DEL CORREO 2 ]	:	2
+	3 ) [ SUBJECT DEL CORREO 3 ]	:	2
+	4 ) [ SUBJECT DEL CORREO 4 ]	:	2
+	5 ) [ DE ROOT PARA TMP 1 ]	:	1
+	6 ) [ DE ROOT PARA TMP 2 ]	:	1
+	7 ) [ DE ROOT PARA TMP 3 ]	:	1
+	8 ) [ DE ROOT PARA TMP 4 ]	:	1
+	9 ) [ SUBJECT DEL CORREO 1 ]	:	1
+	10 ) [ SUBJECT DEL CORREO 1 DE USUARIO ]	:	1

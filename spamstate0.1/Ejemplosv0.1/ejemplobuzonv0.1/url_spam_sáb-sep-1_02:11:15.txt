@@ -1,0 +1,45 @@
+**************************************************************
+***    R E P O R T E     D E    E S T A D I S T I C A S    ***
+**************************************************************
+
+Fecha de creacion:	sáb-sep-1
+Hora de creacion:	02:11:15
+
+Intervalo de reporte: INICIO  (mm/dd): 1-1
+                      TERMINO (mm/dd): 12-31
+----------
+TOP 10 ASN
+	 [ 278 ] : 17
+	 [ 3561 ] : 15
+	 [ 26496 ] : 13
+	 [ 4314 ] : 13
+	 [ 4134 ] : 9
+	 [ 3 ] : 5
+	 [ 4725 ] : 5
+	 [ 22653 ] : 4
+	 [ 26101 ] : 4
+	 [ 26769 ] : 4
+-----------------
+TOP 50 REMITENTES
+	 [ bugtraq ] : 12
+	 [ Erin@ar.com ] : 2
+	 [ henry@repairgate.biz ] : 2
+	 [ lewini77@hotmail.com ] : 2
+	 [ alta ] : 1
+	 [ deborahmiller19@caevi.com ] : 1
+	 [ deborasinha@cafe.mudservices.com ] : 1
+	 [ difusion@vivirlibre.org ] : 1
+	 [ fhe@albion.fr ] : 1
+	 [ geoffrey@gels.biz ] : 1
+---------------
+TOP 50 SUBJECTS
+	 [ NO SUBJECT ] : 20
+	 [ ***Posible SPAM*** Full of health? Then don't click! ] : 3
+	 [ ***Posible SPAM*** All products for your health! ] : 2
+	 [ ***Posible SPAM*** She wants a better sex? All you need's here! ] : 2
+	 [ ***Posible SPAM*** =?iso-2022-jp?B?GyRCJDMkbCRHJGI7ZCRPGyhC?= ] : 1
+	 [ ***Posible SPAM*** =?iso-8859-1?Q?=83Z=83t=83=8C=92T=82=B5=82=CC=89=9C=97l=83u=83=8D=83O=83X?= =?iso-8859-1?Q?=83y=81=5B=83X=81A=88=C4=93=E0=8F=F3=82=F0=8E=F3=82=AF=8E?= =?iso-8859-1?Q?=E6=82=E7=82=EA=82=C4=8BM=95=FB=97l=82=C9=82=CD?= ] : 1
+	 [ ***Posible SPAM*** =?iso-8859-1?Q?cirug=EDa_pl=E1stica?= en mensualidades ] : 1
+	 [ ***Posible SPAM*** All love enhancers on one portal! ] : 1
+	 [ ***Posible SPAM*** Any med for your girl to be happy! ] : 1
+	 [ ***Posible SPAM*** Best love dr@gs at best store! ] : 1

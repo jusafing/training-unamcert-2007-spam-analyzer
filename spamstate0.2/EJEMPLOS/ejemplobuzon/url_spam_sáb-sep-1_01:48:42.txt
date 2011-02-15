@@ -1,0 +1,104 @@
+
+
+**************************************************************
+***    R E P O R T E     D E    E S T A D I S T I C A S    ***
+**************************************************************
+
+--------------------------------------------------------------
+>  Fecha de creacion:	s√°b-sep-1
+>  Hora de creacion :	01:48:42
+
+Intervalo de reporte: INICIO  (mm/dd): 1-1
+                      TERMINO (mm/dd): 12-31
+--------------------------------------------------------------
+
+
+#######################
+###    TOP 10 ASN   ###
+#######################
+	1 ) [ 26496 ]	:	13
+	2 ) [ 3561 ]	:	13
+	3 ) [ 4314 ]	:	12
+	4 ) [ 4725 ]	:	5
+	5 ) [ 22653 ]	:	4
+	6 ) [ 27229 ]	:	4
+	7 ) [ 26769 ]	:	3
+	8 ) [ 23844 ]	:	2
+	9 ) [ 30315 ]	:	2
+	10 ) [ 11357 ]	:	1
+
+###############################
+###    TOP 50 REMITENTES    ###
+###############################
+	1 ) [ the_3dit0r@yahoo.com ]	:	12
+	2 ) [ "Forrest Swartz" <lewini77@hotmail.com> ]	:	2
+	3 ) [ "Peter" <henry@repairgate.biz> ]	:	2
+	4 ) [ $BJ8H~(B <soihfoal@gmail.com> ]	:	1
+	5 ) [ "Adam" <john@englishforum.biz> ]	:	1
+	6 ) [ "Bernadette Mims" <hwli@0330.com> ]	:	1
+	7 ) [ "Centro VivirLibre.org" <difusion@vivirlibre.org> ]	:	1
+	8 ) [ "Geoffrey" <geoffrey@gels.biz> ]	:	1
+	9 ) [ "Henry" <philip@pistonheads.biz> ]	:	1
+	10 ) [ "Junior Wynn" <markham6v1q@hotmail.com> ]	:	1
+	11 ) [ "Keith Jones" <ymwsmaadgeu@elektro-gebauer.de> ]	:	1
+	12 ) [ "Lavern Mayer" <veschait@about.com> ]	:	1
+	13 ) [ "Lic. Abraham Flores" <lalbertof@telcel.net.ve> ]	:	1
+	14 ) [ "Lic. Roberto Leycegui" <tingenieria@asipro.com.mx> ]	:	1
+	15 ) [ "Luciano@jgh.com" <Luciano@jgh.com> ]	:	1
+	16 ) [ "Paul Medina" <deborahmiller19@caevi.com> ]	:	1
+	17 ) [ "Peter" <geoffrey@psychologen.biz> ]	:	1
+	18 ) [ "Peter" <rogert@e-standard.biz> ]	:	1
+	19 ) [ "Petersen F. Ella" <fhe@albion.fr> ]	:	1
+	20 ) [ "Philip" <gilbert@first2office.biz> ]	:	1
+	21 ) [ "Philip" <john@eu-vest.biz> ]	:	1
+	22 ) [ "Philip" <john@pistonheads.biz> ]	:	1
+	23 ) [ "Shauna Jacobs" <deborasinha@cafe.mudservices.com> ]	:	1
+	24 ) [ "Spam Detection" <YSTEMS@partycakesnthings.com> ]	:	1
+	25 ) [ "Stephen" <reginald@pradella.biz> ]	:	1
+	26 ) [ "Stephen" <robert@scandinavian-seed.biz> ]	:	1
+	27 ) [ "Walter" <gilbert@garageservices.biz> ]	:	1
+	28 ) [ "Wilbur Adams" <ragdrien@keromail.com> ]	:	1
+	29 ) [ "äLíÀ" <infocenter999@yahoo.co.jp> ]	:	1
+	30 ) [ David Glosser <david_glosser@yahoo.com> ]	:	1
+	31 ) [ alta-buscadores@hotmail.com ]	:	1
+
+#############################
+###    TOP 50 SUBJECTS    ###
+#############################
+	1 ) [ ***Posible SPAM*** Full of health? Then don't click! ]	:	3
+	2 ) [ ***Posible SPAM*** They overcame ED! ]	:	3
+	3 ) [ ***Posible SPAM*** ]	:	2
+	4 ) [ ***Posible SPAM*** All products for your health! ]	:	2
+	5 ) [ ***Posible SPAM*** She wants a better sex? All you need's here! ]	:	2
+	6 ) [ ***Posible SPAM*** $B$3$l$G$b;d$O(B ]	:	1
+	7 ) [ ***Posible SPAM*** All love enhancers on one portal! ]	:	1
+	8 ) [ ***Posible SPAM*** Any med for your girl to be happy! ]	:	1
+	9 ) [ ***Posible SPAM*** Best love dr@gs at best store! ]	:	1
+	10 ) [ ***Posible SPAM*** BirdBlog  => v1.4.0 Cross Site Scripting ]	:	1
+	11 ) [ ***Posible SPAM*** Chat Letter Join Cashier ]	:	1
+	12 ) [ ***Posible SPAM*** DodosMail <= 2.0.1(dodosmail.php)  Remote File Inclusion Exploit ]	:	1
+	13 ) [ ***Posible SPAM*** La belleza no puede esperar ]	:	1
+	14 ) [ ***Posible SPAM*** LoudMouth =>  2.4 Remote File Include Vulnerabilities ]	:	1
+	15 ) [ ***Posible SPAM*** Me again Jacobs ]	:	1
+	16 ) [ ***Posible SPAM*** Me again Medina ]	:	1
+	17 ) [ ***Posible SPAM*** MyAlbum <= 3.02 (langs_dir) Remote File Inclusion Exploit ]	:	1
+	18 ) [ ***Posible SPAM*** Need medicine? All here! ]	:	1
+	19 ) [ ***Posible SPAM*** Our store is your cureall! ]	:	1
+	20 ) [ ***Posible SPAM*** PHPOLL  => 0.96 Cross Site Scripting ]	:	1
+	21 ) [ ***Posible SPAM*** PhpQuickGallery <= 1.9   Remote File Inclusion Exploit ]	:	1
+	22 ) [ ***Posible SPAM*** RE: ]	:	1
+	23 ) [ ***Posible SPAM*** Re: ]	:	1
+	24 ) [ ***Posible SPAM*** Re: November Deals Ready ]	:	1
+	25 ) [ ***Posible SPAM*** Re: network based spyware scanner ]	:	1
+	26 ) [ ***Posible SPAM*** Shopping_Catalog Remote File Include exploit ]	:	1
+	27 ) [ ***Posible SPAM*** Taller del Perdon ]	:	1
+	28 ) [ ***Posible SPAM*** Wabbit PHP Gallery  => 0.9  Remote Traversal Directory ]	:	1
+	29 ) [ ***Posible SPAM*** Why seek? Choose any love pi11 you want! ]	:	1
+	30 ) [ ***Posible SPAM*** all that it shall come up; of the father of our priests ]	:	1
+	31 ) [ ***Posible SPAM*** cirugÌa pl·stica en mensualidades ]	:	1
+	32 ) [ ***Posible SPAM*** dicshunary 0.1 alpha   Remote File Inclusion Exploit ]	:	1
+	33 ) [ ***Posible SPAM*** enomphp  => 4.0  Remote Traversal Directory ]	:	1
+	34 ) [ ***Posible SPAM*** insignia ]	:	1
+	35 ) [ ***Posible SPAM*** mg.applanix <= 1.3.1 Remote File Include  Exploit ]	:	1
+	36 ) [ ***Posible SPAM*** my little weblog  =>  Cross Site Scripting ]	:	1
+	37 ) [ ***Posible SPAM*** ÉZÉtÉåíTÇµÇÃâúólÉuÉçÉOÉXÉyÅ[ÉXÅAàƒì‡èÛÇéÛÇØéÊÇÁÇÍÇƒãMï˚ólÇ…ÇÕ ]	:	1
